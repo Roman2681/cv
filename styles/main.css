@@ -1,0 +1,88 @@
+.main{
+    width: 830px;
+    padding: 100px 200px 100px 90px;
+    background: #FFFFFF;
+}
+.prof{
+    margin: 0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.text_red{
+    color: #FB6D3A;
+}
+.h1{
+    margin: 20px 0;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+.text_p{
+    max-width: 400px;
+    margin: 0;
+}
+.title_main{
+    margin: 44px 0 0 0;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.project{
+    display: flex;
+    padding-left: 12px;
+}
+.project_list{
+   padding-left: 17px;
+}
+.project_list li::marker{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.project_item{
+    
+}
+.project_name{
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+}
+.project_line{
+    flex: 1;
+    margin-left: 28px;
+    border-bottom: 1px dashed #A8A8A8;;
+}
+.project_technologies{
+    flex: 0 0 140px;
+}
+.project_link{
+    color: #595959;
+}
+.work_place{
+    margin: 20px 0 10px 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.work_time{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.Education_place{
+    margin: 10px 0;
+}
+.man{
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
